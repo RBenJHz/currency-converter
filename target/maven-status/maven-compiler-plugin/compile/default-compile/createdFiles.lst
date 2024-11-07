@@ -1,0 +1,6 @@
+com\fulldev\currencyconverter\CorsConfig.class
+com\fulldev\currencyconverter\CurrencyConverterApplication.class
+com\fulldev\currencyconverter\CurrencyConverterController.class
+com\fulldev\currencyconverter\AppConfig.class
+com\fulldev\currencyconverter\ExchangeRateResponse.class
+com\fulldev\currencyconverter\CurrencyConversionService.class

@@ -1,0 +1,29 @@
+# Currency Converter
+
+Aplicación de conversión de monedas desarrollada en Spring Boot, diseñada para obtener tasas de cambio en tiempo real y realizar conversiones entre diferentes divisas.
+
+## Características
+
+- Conversión de monedas en tiempo real utilizando una API de tasas de cambio.
+- Historial de conversiones recientes.
+- Interfaz amigable con diseño responsivo.
+- Opciones de copia y limpieza de los resultados.
+- Cacheo de respuestas para optimizar las consultas a la API.
+
+## Requisitos
+
+- Java 21 o superior
+- Maven 3.6 o superior
+- Docker (opcional, para ejecución en contenedores)
+
+## Uso
+
+1. Selecciona la moneda de origen y destino, e ingresa el monto a convertir.
+2. Haz clic en **Convertir** para obtener el resultado.
+3. Usa **Copiar** para guardar el valor en el portapapeles y **Limpiar** para restablecer el formulario.
+4. El historial de conversiones se mostrará automáticamente después de cada conversión.
+
+## Notas adicionales
+
+- Personaliza las variables de colores en el archivo CSS para ajustar la apariencia de la interfaz.
+
